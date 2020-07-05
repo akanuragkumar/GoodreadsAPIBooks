@@ -20,7 +20,7 @@ To work in a sandboxed Python environment it is recommended to install the app i
 4. Run app from command-line with the book name to search as args. Example- 12177850-a-song-of-ice-and-fire
 
    ```bash
-   $ python app.py python app.py 12177850-a-song-of-ice-and-fire
+   $ python app.py 12177850-a-song-of-ice-and-fire
    ```
 
 5. Run the Test-cases:
